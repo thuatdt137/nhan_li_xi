@@ -2400,7 +2400,7 @@ const sentences = [
     sentence: "Thân gửi",
   },
   {
-    sentence: "Zilong",
+    sentence: "thuatdt713",
   },
 ];
 

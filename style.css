@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: b;
-  src: url(./font/HeadstayRegular-1GrM2.ttf);
+  src: url(./font/Pecita.otf);
 }
 .copyright {
   position: absolute;
@@ -506,7 +506,7 @@ body {
   box-shadow: 0 0 2px rgba(50, 0, 50, 0.3);
 }
 .paper .message {
-  font-family: "Satisfy", cursive;
+  font-family: b;
   text-align: center;
 }
 .paper .close {
@@ -637,7 +637,7 @@ body {
   /* animation: show 0.5s ease forwards; Add easing for smoother animation */
 }
 
-@import url("https://fonts.googleapis.com/css?family=Caveat");
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
 .envelope.close .content {
   animation: move-in 1s forwards;
 }
